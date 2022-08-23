@@ -20,6 +20,9 @@
 -->
 # Release Notes
 
+### 3.0.0 (Aug 23, 2023)
+-   feat: remove timeout for offline event
+
 ### 3.0.0 (Jun 03, 2021)
 -   release 3.0.0 audit fix
 -   ci: add node-14.x to workflow
